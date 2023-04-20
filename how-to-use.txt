@@ -1,0 +1,13 @@
+How to make the resume from this code.
+
+1.Make changes to code, add you resonal details in the specified location in the code.
+
+2.Run the code and open the page in the browser.
+
+3.Type cltr-p, this will print the page.
+
+4.While printing the page make changes in the custom tab, make changes until the UX is correct.
+
+5.Now save the file as a pdf file.
+
+6.Great the resume is ready to use....
